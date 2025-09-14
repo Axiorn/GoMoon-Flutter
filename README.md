@@ -1,7 +1,6 @@
 # 🚀 GoMoon – Flutter Learning Project 👋
 
-GoMoon adalah aplikasi mobile sederhana yang saya kembangkan secara mandiri sebagai sarana untuk **belajar Flutter** dan **memahami konsep Object Oriented Programming (OOP)** dengan bahasa **Dart**.  
-Aplikasi ini tidak terkait dengan perkuliahan atau institusi manapun, murni dibuat untuk **eksperimen pribadi** dan **pengembangan skill** dalam mobile development.  
+GoMoon adalah aplikasi mobile sederhana yang saya kembangkan secara mandiri sebagai sarana untuk **belajar Flutter** dan **memahami konsep Object Oriented Programming (OOP)** dengan bahasa **Dart**. Aplikasi ini tidak terkait dengan perkuliahan atau institusi manapun, murni dibuat untuk **eksperimen pribadi** dan **pengembangan skill** dalam mobile development.  
 
 ---
 
@@ -38,11 +37,7 @@ Just plug and play 🎲
 
 ## 🛠️ Badges
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)  
-![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20Web-blue)  
-![Flutter](https://img.shields.io/badge/Flutter-3.24.0-02569B?logo=flutter)  
-![Dart](https://img.shields.io/badge/Dart-3.5.0-0175C2?logo=dart)  
-![License](https://img.shields.io/badge/license-MIT-green)  
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)  ![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20Web-blue)  ![Flutter](https://img.shields.io/badge/Flutter-3.24.0-02569B?logo=flutter)  ![Dart](https://img.shields.io/badge/Dart-3.5.0-0175C2?logo=dart)  ![License](https://img.shields.io/badge/license-MIT-green)  
 
 ---
 
@@ -71,6 +66,5 @@ Mungkin ya! GoMoon bisa terus dikembangkan seiring saya memperdalam pemahaman te
 
 ---
 
-For help getting started with Flutter development, view the  
-[online documentation](https://docs.flutter.dev/), which offers tutorials,  
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter development, view the [online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
+
